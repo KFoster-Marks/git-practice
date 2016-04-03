@@ -1,0 +1,5 @@
+qcommit 9cd0ec0f585e3ff949013da96eef82cd4955c677
+Author: Kristen Foster-Marks <kristenfoster-marks@Kristens-MacBook-Pro.local>
+Date:   Sat Apr 2 19:24:10 2016 -0700
+
+    I am adding this file to gitq
